@@ -4,6 +4,12 @@
   "description": "Encode unicode characters in selected text",
   "version": "0.0.1",
   "publisher": "chazuk",
+  "homepage": "https://github.com/ChazUK/vscode-unicode-converter",
+  "bugs": "https://github.com/ChazUK/vscode-unicode-converter/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChazUK/vscode-unicode-converter"
+  },
   "engines": {
     "vscode": "^1.40.0"
   },
