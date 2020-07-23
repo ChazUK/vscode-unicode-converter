@@ -2,7 +2,7 @@
   "name": "unicode-converter",
   "displayName": "Unicode Converter",
   "description": "Encode unicode characters in selected text",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "chazuk",
   "homepage": "https://github.com/ChazUK/vscode-unicode-converter",
   "bugs": "https://github.com/ChazUK/vscode-unicode-converter/issues",
@@ -64,7 +64,8 @@
     "mocha": "^6.2.2",
     "typescript": "^3.6.4",
     "tslint": "^5.20.0",
-    "vscode-test": "^1.2.2"
+    "vscode-test": "^1.2.2",
+    "minimist": ">=0.2.1"
   },
   "dependencies": {
     "he": "^1.2.0"
