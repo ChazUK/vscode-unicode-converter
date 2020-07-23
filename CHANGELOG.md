@@ -4,12 +4,17 @@ All notable changes to the "unicode-converter" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.3] - 2020-07-23
+
+### Security Fixes
+
+- minimist update
+
 ## [0.0.2] - 2020-07-23
 
 ### Security Fixes
 
 - Dependabot updating lodash
-- minimist update
 
 ## [Unreleased]
 
