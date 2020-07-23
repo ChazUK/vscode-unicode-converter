@@ -65,7 +65,7 @@
     "typescript": "^3.6.4",
     "tslint": "^5.20.0",
     "vscode-test": "^1.2.2",
-    "minimist": ">=0.2.1"
+    "minimist": ">=1.2.3"
   },
   "dependencies": {
     "he": "^1.2.0"
