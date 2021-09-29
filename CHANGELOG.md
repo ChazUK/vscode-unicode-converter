@@ -4,6 +4,12 @@ All notable changes to the "unicode-converter" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.5] - 2021-09-29
+
+Updates recommended by Dependabot
+
+- ansi-regex
+
 ## [0.0.4] - 2021-09-29
 
 ### Security Fixes
